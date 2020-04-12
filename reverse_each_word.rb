@@ -5,5 +5,5 @@ def reverse_each_word(sentence1)
     x.reverse
     reversed.unshift(x)
     end
-
+reversed
 end

@@ -4,5 +4,5 @@ def reverse_each_word(sentence1)
   sentence1.map do |x|
     reversed.push(x.reverse)
     end
-reversed
+reversed.join
 end
